@@ -1,0 +1,8 @@
+C:\Users\panda\Desktop\Project\FileSplit\FileSplit\bin\Debug\FileSplit.exe.config
+C:\Users\panda\Desktop\Project\FileSplit\FileSplit\bin\Debug\FileSplit.exe
+C:\Users\panda\Desktop\Project\FileSplit\FileSplit\bin\Debug\FileSplit.pdb
+C:\Users\panda\Desktop\Project\FileSplit\FileSplit\obj\Debug\FileSplit.Form1.resources
+C:\Users\panda\Desktop\Project\FileSplit\FileSplit\obj\Debug\FileSplit.Properties.Resources.resources
+C:\Users\panda\Desktop\Project\FileSplit\FileSplit\obj\Debug\FileSplit.csproj.GenerateResource.Cache
+C:\Users\panda\Desktop\Project\FileSplit\FileSplit\obj\Debug\FileSplit.exe
+C:\Users\panda\Desktop\Project\FileSplit\FileSplit\obj\Debug\FileSplit.pdb
